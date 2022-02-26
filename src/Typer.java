@@ -18,3 +18,4 @@ public class Typer extends Thread {
             }
         }
     }
+
